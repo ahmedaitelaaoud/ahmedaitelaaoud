@@ -1,88 +1,100 @@
-
-<!-- Banner / Title -->
-<h1 align="center">👋 Hi, I'm Ahmed</h1>
-<h3 align="center">💻 Software Developer | 42 / 1337 Student | Low-Level Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Ahmed</h1>
+<h3 align="center">💻 Software Developer | 1337 Student | C & Low-Level Enjoyer</h3>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate systems developer currently studying at **1337 Rabat**.  
-I love working in teams, solving problems, and writing clean low-level code in **C**.  
-Every day, I focus on improving my debugging skills, understanding memory, and becoming a better engineer.
+I'm a passionate student at **1337** working on improving my system programming skills every day.  
+I love **teamwork**, clean code, debugging, and exploring low-level concepts.
+
+I focus on:
+- Writing memory-safe, efficient C code  
+- Mastering Linux tools & debugging  
+- Understanding how systems work internally  
 
 ---
 
 ## 🎯 My Goals
-- 🧠 Master low-level programming & data structures  
-- 🐧 Become fully comfortable with Linux & shell scripting  
-- 🛠️ Build a strong portfolio through 1337 projects  
-- 🤝 Collaborate with developers around the world  
-- 🚀 Start contributing to open-source projects  
+- 🌱 Master low-level programming  
+- 🧠 Improve problem-solving skills  
+- 🛠️ Build real-world C projects  
+- 🤝 Collaborate with other developers  
+- 🚀 Contribute to open source  
+- 🔥 Become a strong systems programmer
+
+---
+
+## 📘 1337 Progress
+### ✔️ Completed
+- **Libft**  
+- **ft_printf**
+
+### 🔧 In Progress
+- **get_next_line**  
+(working on buffer handling, file descriptors, and static memory)
 
 ---
 
 ## 🔥 Currently Learning
-- `get_next_line` (file descriptors, buffer management)  
-- Makefiles (advanced rules)  
-- GDB & Valgrind workflow  
-- Git workflow and clean version control strategies  
+- Advanced Makefile rules  
+- Valgrind workflow  
+- GDB debugging  
+- Git Collaboration Flow  
+- Memory handling in C  
+- Clean code architecture  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### **Languages**
+### Languages
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### **Tools**
+### Tools
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=green)
-![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge)
 
 ---
 
-## 📌 Featured 1337 Projects
-
-### ✔️ Completed
-- 🔹 **Libft** – Custom standard C library  
-- 🔹 **ft_printf** – Full printf implementation  
-
-### 🔧 In Progress
-- 🔹 **get_next_line** – Line-by-line file reader  
-
----
-
-## 🤝 I Love Working With Others
-Collaboration is one of my favorite parts of coding:
-- Pair programming  
-- Code reviews  
-- Learning from teammates  
-- Sharing problem-solving strategies  
-
-If you're from **42/1337**, feel free to contact me for collaboration!
-
----
-
-## 📊 GitHub Stats (Dark Theme)
-
+## 📊 GitHub Stats
 <div align="center">
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=radical)
   
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🔗 Contact Me
+## 🐍 Contribution Snake Animation
 
-- 📧 Email: **ahmedaitelaaoud@gmail.com**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-<p align="center">✨ Always learning, always improving ✨</p>
+## 🤝 I Love Working With Others
+- Pair programming  
+- Sharing solutions  
+- Learning from others  
+- Reviewing code  
+- Teamwork mindset  
 
+If you're from **42/1337**, feel free to reach out for collaboration.
+
+---
+
+## 🔗 Contact Me
+- 📧 Email: **ahmedaitelaaoud@gmail.com**
+
+<p align="center">✨ Always learning, always improving ✨</p>
