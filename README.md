@@ -1,12 +1,12 @@
 
 <!-- Banner / Title -->
 <h1 align="center">👋 Hi, I'm Ahmed</h1>
-<h3 align="center">💻 Software Developer | 1337 Student | Low-Level Enthusiast</h3>
+<h3 align="center">💻 Software Developer | 42 / 1337 Student | Low-Level Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate systems developer currently studying at **1337**.  
+I'm a passionate systems developer currently studying at **1337 Rabat**.  
 I love working in teams, solving problems, and writing clean low-level code in **C**.  
 Every day, I focus on improving my debugging skills, understanding memory, and becoming a better engineer.
 
