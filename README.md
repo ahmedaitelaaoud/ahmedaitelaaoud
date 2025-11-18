@@ -80,7 +80,7 @@ If you're from **42/1337**, feel free to contact me for collaboration!
 
 ## 🔗 Contact Me
 
-- 📧 Email: **ahmed.contact.18@gmail.com**
+- 📧 Email: **ahmedaitelaaoud@gmail.com**
 
 ---
 
