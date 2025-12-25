@@ -28,14 +28,12 @@ I am a student at the **42 Network**, focusing on low-level algorithms, system a
 ---
 
 ### 📊 My 42 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ahmed's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaitelaaoud&theme=tokyonight&hide_border=true&background=00000000" alt="Ahmed's Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
+![Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedaitelaaoud&theme=tokyonight&hide_border=true)
 
 ---
 
