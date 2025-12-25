@@ -28,10 +28,10 @@ I am a student at the **42 Network**, focusing on low-level algorithms, system a
 ---
 
 ### 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmedaitelaaoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?ahmedaitelaaoud=ahmedaitelaaoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Language Breakdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ahmedaitelaaoud=ahmedaitelaaoud&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
