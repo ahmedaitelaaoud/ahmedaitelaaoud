@@ -7,8 +7,8 @@ I am a student at the **42 Network**, focusing on low-level algorithms, system a
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Advanced C algorithms and System Administration (Born2beroot).
-- 🌱 **Learning:** Unix architecture, Virtualization, and Memory Management.
+- 🔭 **Currently working on:** Algorithmic complexity and sorting algorithms (**Push_swap**).
+- 🌱 **Learning:** Stack manipulation, Big O notation, and optimization strategies.
 - 💬 **Ask me about:** C, Linux, Shell Scripting, and Git.
 - ⚡ **Fun fact:** I can code a memory leak... and then fix it!
 
@@ -40,10 +40,10 @@ I am a student at the **42 Network**, focusing on low-level algorithms, system a
 ### 🏆 42 Projects Highlight
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Push_swap** | Sorting data on a stack with a limited set of instructions. | `C`, `Algorithms` |
 | **Libft** | My own implementation of the C Standard Library. | `C`, `Make` |
 | **Born2beroot** | Setting up a secure Linux server with virtualization. | `VirtualBox`, `Debian`, `SSH` |
 | **Get_Next_Line** | Reading a line from a file descriptor efficiently. | `C`, `Buffers` |
-| **Printf** | Recreating the printf function. | `C`, `Variadic Args` |
 
 ---
 
