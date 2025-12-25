@@ -1,100 +1,54 @@
-<h1 align="center">👋 Hey, I'm Ahmed</h1>
-<h3 align="center">💻 Software Developer | 1337 Student | C & Low-Level Enjoyer</h3>
+# Hi there, I'm Ahmed! 👋
+
+### 👨‍💻 Software Engineering Student @ [1337 (42 Network)](https://1337.ma/)
+
+I am a student at the **42 Network**, focusing on low-level algorithms, system administration, and building robust software from scratch. I don't just use libraries; I rebuild them to understand how they work under the hood.
 
 ---
 
-## 🚀 About Me
-I'm a passionate student at **1337** working on improving my system programming skills every day.  
-I love **teamwork**, clean code, debugging, and exploring low-level concepts.
-
-I focus on:
-- Writing memory-safe, efficient C code  
-- Mastering Linux tools & debugging  
-- Understanding how systems work internally  
+### 🚀 What I'm Up To
+- 🔭 **Currently working on:** Advanced C algorithms and System Administration (Born2beroot).
+- 🌱 **Learning:** Unix architecture, Virtualization, and Memory Management.
+- 💬 **Ask me about:** C, Linux, Shell Scripting, and Git.
+- ⚡ **Fun fact:** I can code a memory leak... and then fix it!
 
 ---
 
-## 🎯 My Goals
-- 🌱 Master low-level programming  
-- 🧠 Improve problem-solving skills  
-- 🛠️ Build real-world C projects  
-- 🤝 Collaborate with other developers  
-- 🚀 Contribute to open source  
-- 🔥 Become a strong systems programmer
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vscode,docker,python&theme=dark" />
+  </a>
+</p>
+
+* **Core:** C Programming (Norminette compliant), Shell Scripting
+* **Systems:** Debian, VirtualBox, Docker
+* **Tools:** Makefiles, GDB, Valgrind, VS Code
 
 ---
 
-## 📘 1337 Progress
-### ✔️ Completed
-- **Libft**  
-- **ft_printf**
+### 📊 My 42 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ahmed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaitelaaoud&theme=tokyonight&hide_border=true&background=00000000" alt="Ahmed's Streak" />
+</p>
 
-### 🔧 In Progress
-- **get_next_line**  
-(working on buffer handling, file descriptors, and static memory)
-
----
-
-## 🔥 Currently Learning
-- Advanced Makefile rules  
-- Valgrind workflow  
-- GDB debugging  
-- Git Collaboration Flow  
-- Memory handling in C  
-- Clean code architecture  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### Languages
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=green)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge)
+### 🏆 42 Projects Highlight
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Libft** | My own implementation of the C Standard Library. | `C`, `Make` |
+| **Born2beroot** | Setting up a secure Linux server with virtualization. | `VirtualBox`, `Debian`, `SSH` |
+| **Get_Next_Line** | Reading a line from a file descriptor efficiently. | `C`, `Buffers` |
+| **Printf** | Recreating the printf function. | `C`, `Variadic Args` |
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaitelaaoud&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaitelaaoud&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedaitelaaoud/ahmedaitelaaoud/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 I Love Working With Others
-- Pair programming  
-- Sharing solutions  
-- Learning from others  
-- Reviewing code  
-- Teamwork mindset  
-
-If you're from **42/1337**, feel free to reach out for collaboration.
-
----
-
-## 🔗 Contact Me
-- 📧 Email: **ahmedaitelaaoud@gmail.com**
-
-<p align="center">✨ Always learning, always improving ✨</p>
+<p align="center">
+  Start where you are. Use what you have. Do what you can.
+</p>
