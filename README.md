@@ -35,6 +35,9 @@ I am a student at the **42 Network**, focusing on low-level algorithms, system a
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedaitelaaoud&theme=tokyonight&hide_border=true)
 
+### 🏆 Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmedaitelaaoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 🏆 42 Projects Highlight
