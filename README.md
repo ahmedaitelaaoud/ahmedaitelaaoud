@@ -126,7 +126,8 @@ while (alive) {
 ✅ Get_next_line ━━━━━━━━━━━━━━━━━━━━━━ 125%
 ✅ Push_swap     ━━━━━━━━━━━━━━━━━━━━━━ 100%
 ✅ Born2beroot   ━━━━━━━━━━━━━━━━━━━━━━ 110%
-🔄 Python Module 00 ━━━━━━━━━━━━━━━━━━ In Progress
+✅ Python Module 00 ━━━━━━━━━━━━━━━━━━  100%
+🔄 Python Module 01 ━━━━━━━━━━━━━━━━━━ In Progress
 ```
 
 ---
