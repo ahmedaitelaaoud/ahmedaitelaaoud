@@ -127,7 +127,8 @@ while (alive) {
 ✅ Push_swap     ━━━━━━━━━━━━━━━━━━━━━━ 100%
 ✅ Born2beroot   ━━━━━━━━━━━━━━━━━━━━━━ 110%
 ✅ Python Module 00 ━━━━━━━━━━━━━━━━━━  100%
-🔄 Python Module 01 ━━━━━━━━━━━━━━━━━━ In Progress
+✅ Python Module 01 ━━━━━━━━━━━━━━━━━━  87%
+🔄 Python Module 02 ━━━━━━━━━━━━━━━━━━ In Progress
 ```
 
 ---
